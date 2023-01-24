@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat-gpt-clone/static/css/main.ed090766.css",
+    "main.js": "/chat-gpt-clone/static/js/main.6d32482a.js",
+    "static/media/backgroung.jpg": "/chat-gpt-clone/static/media/backgroung.b0f4c7cf6d5de89fcb11.jpg",
+    "static/media/OpenAI_Logo.svg": "/chat-gpt-clone/static/media/OpenAI_Logo.a302dc07a7fb1f5992ec1f366e9ec578.svg",
+    "index.html": "/chat-gpt-clone/index.html",
+    "main.ed090766.css.map": "/chat-gpt-clone/static/css/main.ed090766.css.map",
+    "main.6d32482a.js.map": "/chat-gpt-clone/static/js/main.6d32482a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed090766.css",
+    "static/js/main.6d32482a.js"
+  ]
+}
